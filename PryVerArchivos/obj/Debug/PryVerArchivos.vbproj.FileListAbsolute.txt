@@ -1,0 +1,21 @@
+E:\PROYECTOS PROGRAMACION\VER_OCULTOS\PryVerArchivos\PryVerArchivos\bin\Debug\PryVerArchivos.exe.config
+E:\PROYECTOS PROGRAMACION\VER_OCULTOS\PryVerArchivos\PryVerArchivos\bin\Debug\PryVerArchivos.exe
+E:\PROYECTOS PROGRAMACION\VER_OCULTOS\PryVerArchivos\PryVerArchivos\bin\Debug\PryVerArchivos.pdb
+E:\PROYECTOS PROGRAMACION\VER_OCULTOS\PryVerArchivos\PryVerArchivos\bin\Debug\PryVerArchivos.xml
+E:\PROYECTOS PROGRAMACION\VER_OCULTOS\PryVerArchivos\PryVerArchivos\obj\Debug\PryVerArchivos.Resources.resources
+E:\PROYECTOS PROGRAMACION\VER_OCULTOS\PryVerArchivos\PryVerArchivos\obj\Debug\PryVerArchivos.vbproj.GenerateResource.Cache
+E:\PROYECTOS PROGRAMACION\VER_OCULTOS\PryVerArchivos\PryVerArchivos\obj\Debug\PryVerArchivos.exe
+E:\PROYECTOS PROGRAMACION\VER_OCULTOS\PryVerArchivos\PryVerArchivos\obj\Debug\PryVerArchivos.xml
+E:\PROYECTOS PROGRAMACION\VER_OCULTOS\PryVerArchivos\PryVerArchivos\obj\Debug\PryVerArchivos.pdb
+E:\PROYECTOS PROGRAMACION\VER_OCULTOS\PryVerArchivos\PryVerArchivos\obj\Debug\PryVerArchivos.FrmMostraArchivo.resources
+H:\BACKUP 16-01\PROYECTOS H\PROYECTOS VARIOS\VER_OCULTOS\PryVerArchivos\PryVerArchivos\bin\Debug\PryVerArchivos.exe.config
+H:\BACKUP 16-01\PROYECTOS H\PROYECTOS VARIOS\VER_OCULTOS\PryVerArchivos\PryVerArchivos\obj\Debug\PryVerArchivos.exe
+H:\BACKUP 16-01\PROYECTOS H\PROYECTOS VARIOS\VER_OCULTOS\PryVerArchivos\PryVerArchivos\obj\Debug\PryVerArchivos.xml
+H:\BACKUP 16-01\PROYECTOS H\PROYECTOS VARIOS\VER_OCULTOS\PryVerArchivos\PryVerArchivos\obj\Debug\PryVerArchivos.pdb
+H:\BACKUP 16-01\PROYECTOS H\PROYECTOS VARIOS\VER_OCULTOS\PryVerArchivos\PryVerArchivos\bin\Debug\PryVerArchivos.exe
+H:\BACKUP 16-01\PROYECTOS H\PROYECTOS VARIOS\VER_OCULTOS\PryVerArchivos\PryVerArchivos\bin\Debug\PryVerArchivos.pdb
+H:\BACKUP 16-01\PROYECTOS H\PROYECTOS VARIOS\VER_OCULTOS\PryVerArchivos\PryVerArchivos\bin\Debug\PryVerArchivos.xml
+H:\BACKUP 16-01\PROYECTOS H\PROYECTOS VARIOS\VER_OCULTOS\PryVerArchivos\PryVerArchivos\obj\Debug\PryVerArchivos.FrmMostraArchivo.resources
+H:\BACKUP 16-01\PROYECTOS H\PROYECTOS VARIOS\VER_OCULTOS\PryVerArchivos\PryVerArchivos\obj\Debug\PryVerArchivos.Resources.resources
+H:\BACKUP 16-01\PROYECTOS H\PROYECTOS VARIOS\VER_OCULTOS\PryVerArchivos\PryVerArchivos\obj\Debug\PryVerArchivos.vbproj.GenerateResource.Cache
+H:\BACKUP 16-01\PROYECTOS H\PROYECTOS VARIOS\VER_OCULTOS\PryVerArchivos\PryVerArchivos\obj\Debug\PryVerArchivos.vbprojResolveAssemblyReference.cache
